@@ -1,3 +1,10 @@
+## Build, tested and deployed at:
+
+Netlify: https://clarivi.netlify.com/
+Zeit Now: https://clarivi.now.sh/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
