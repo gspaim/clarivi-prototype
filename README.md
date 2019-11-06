@@ -3,6 +3,7 @@
 Netlify: https://clarivi.netlify.com/  
 Zeit Now: https://clarivi.now.sh/   
 AWS Amplify: http://clarivi-prod.s3-website.us-east-2.amazonaws.com  
+Static website hosting in Azure Storage: https://clarivistorage.z15.web.core.windows.net/  
 
 
 ## How to build and deploy
