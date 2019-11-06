@@ -1,9 +1,11 @@
-## Build, tested and deployed at:
+## Built, tested and deployed at:
 
-Netlify: https://clarivi.netlify.com/
-Zeit Now: https://clarivi.now.sh/
+Netlify: https://clarivi.netlify.com/  
+Zeit Now: https://clarivi.now.sh/   
+AWS Amplify: http://clarivi-prod.s3-website.us-east-2.amazonaws.com  
 
 
+## How to build and deploy
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
